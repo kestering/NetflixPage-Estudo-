@@ -1,3 +1,5 @@
+ !!! ESSE PROJETO É UM SITE FICTICIO PARA FINS DE ESTUDO!!!
+ 
  🖥️ NetflixPage
 
 <img src="https://user-images.githubusercontent.com/81923270/136713690-184d06db-0cce-425c-85d6-452cc2338105.jpg" alt="Imagem1"/>
